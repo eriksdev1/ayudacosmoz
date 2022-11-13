@@ -1,0 +1,1 @@
+rh._.exports({"0":[["Primer tema"]],"1":[[" ","Primer tema"]],"2":[[" ","Es el primer tema del proyecto. Elimine este texto y sustitúyalo por uno propio. Para añadir un nuevo tema, haga clic en el botón ","Nuevo tema"," en la barra de herramientas."," ","Para obtener más información sobre el Editor, pulse ","F1"," (con el cursor en este panel) para mostrar la Ayuda."]],"id":"0"})

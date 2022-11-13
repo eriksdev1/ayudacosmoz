@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Primer tema","type":"item","tilePath":"","description":"","url":"First_Topic.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
